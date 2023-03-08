@@ -1,5 +1,3 @@
 "use strict"
-let str = `a
-b
-c`
+let str = 5
 alert (str)
