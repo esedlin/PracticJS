@@ -1,3 +1,4 @@
 "use strict"
-let str = 5
-alert (str)
+let obj = {x: 1, y: 2, z: 3};
+let key = 'x';
+console.log(key);
